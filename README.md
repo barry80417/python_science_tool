@@ -1,0 +1,2 @@
+# python_science_tool
+python練習程式碼，從基本抓取DataFrame資料到分析
